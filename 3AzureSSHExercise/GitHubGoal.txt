@@ -1,0 +1,1 @@
+The goal of this exercise is to capture SSH (SecureShell) traffic via Wireshark, connecting via SSH to our Linux VM via PowerShell, and finally experimenting with DHCP (Dynamic Host Configuration Protocol).
