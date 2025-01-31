@@ -1,0 +1,1 @@
+The goal of this exercise is to learn how to create a resource group containing VMs (Virtual Machines), connecting via RDP (Remote Desktop Protocol), and monitoring ICMP traffic between them utilizing Wireshark, and initiating Network Security Group controls via Azure!
